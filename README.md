@@ -14,10 +14,11 @@
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-*Note: The above languages usage graph represents my most used languages on GitHub.*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
