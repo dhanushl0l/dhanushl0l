@@ -1,6 +1,6 @@
 # Welcome to Dhanush's GitHub Profile! 👋
 
-<h3 align="center">Hello there! I'm Dhanush, a passionate software developer and technology enthusiast. I love coding and exploring new technologies. Here you'll find some of my projects and contributions.</h3>
+Hello there! I'm Dhanush, a passionate software developer and technology enthusiast. I love coding and exploring new technologies. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
