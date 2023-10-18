@@ -18,8 +18,8 @@ Hello there! I'm Dhanush, a passionate software developer and technology enthusi
 
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
+- [Youtube](https://youtube.com/@dhanush-_-2562)
+- [Twitter](https://twitter.com/dhanu_off)
+- [Telegram](https://t.me/dh33_6)
 
 Feel free to reach out and connect! 😄
