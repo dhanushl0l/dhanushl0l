@@ -6,10 +6,9 @@
 ### Email
 
 - **Mail**: [dhanush@dhanush.online](mailto:dhanush@dhanush.online)
+- <img align='right' src='https://repo.dhanush.online/gif/astronautcat.gif' width='100"'>
 
 ### Other profiles
-
-<img align='right' src='https://repo.dhanush.online/gif/astronautcat.gif' width='200"'>
 
 - <img src="https://repo.dhanush.online/images/github.png" alt="GitHub Icon" width="20" height="20"/> **GitHub**: [dhanushl0l](https://github.com/dhanushl0l)
 - <img src="https://repo.dhanush.online/images/linkedin.png" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn**: [dhanushl0l](https://linkedin.com/in/dhanu-dev)
@@ -29,13 +28,5 @@
 </a><a href="https://www.figma.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
 </a></p>
-
----
-
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
-
-<!--  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wd7jsr7i5wggedxhhkbhlwjzje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 ---
