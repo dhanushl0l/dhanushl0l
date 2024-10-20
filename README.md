@@ -3,10 +3,11 @@
 
 # 📫 Contact
 
+<img align="right" src="https://repo.dhanush.online/gif/astronautcat.gif" width="100" height="100"/>
+
 ### Email
 
 - **Mail**: [dhanush@dhanush.online](mailto:dhanush@dhanush.online)
-- <img align='right' src='https://repo.dhanush.online/gif/astronautcat.gif' width='100"  height="100'>
 
 ### Other profiles
 
