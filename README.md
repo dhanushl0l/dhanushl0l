@@ -3,7 +3,7 @@
 
 # 📫 Contact
 
-<img align="right" src="https://repo.dhanush.online/gif/astronautcat.gif" width="100" height="100"/>
+<img align="right" src="assets/astronautcat.gif" width="100" height="100"/>
 
 ### Email
 
@@ -11,7 +11,7 @@
 
 ### Other profiles
 
-- <img src="https://repo.dhanush.online/images/linkedin.png" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn**: [dhanushl0l](https://linkedin.com/in/dhanu-dev)
-- <img src="https://repo.dhanush.online/images/gitlab.png" alt="GitLab Icon" width="20" height="20"/> **GitLab**: [dhanu0](https://gitlab.com/dhanu0)
+- <img src="assets/Linkedin.png" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn**: [dhanushl0l](https://linkedin.com/in/dhanu-dev)
+- <img src="assets/gitlab.png" alt="GitLab Icon" width="20" height="20"/> **GitLab**: [dhanu0](https://gitlab.com/dhanu0)
 
-#### 🚀 **Website**:  [dhanush.online](https://dhanush.online)
+#### 🚀 **Website**: [dhanu.cloud](https://dhanu.cloud)
